@@ -1,4 +1,4 @@
-# 🚀 Autonomous Spacecraft Controller Simulator
+# 🚀 Autonomous Spacecraft Controller System
 
 An event-driven embedded firmware project designed to model how autonomous spacecraft onboard software manages communication, telemetry, sensor handling, and fault recovery using modular firmware architecture.
 
@@ -36,7 +36,7 @@ The primary goal of this project was to practice real embedded systems concepts 
 
 # 🏗️ Firmware Architecture
 
-
+```
 Ground Command Interface
             ↓
          Parser Layer
@@ -88,7 +88,7 @@ Ground Command Interface
 
 # 💻 Example Execution
 
-
+```
 >> START
 SPACECRAFT ACTIVATED
 
